@@ -1,8 +1,8 @@
-# [eniway.me](http://www.eniway.me)
+# [actnow.me](http://www.actnow.me)
 
 ## Info
 
-This website was created as a project to learn HTML/CSS. 
+This website was created for a Stanford University Senate Campaign.
 
 ## Credits
 
