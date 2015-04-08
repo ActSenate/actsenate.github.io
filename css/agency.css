@@ -652,10 +652,11 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
-    background-position: center;
-    background-repeat: no-repeat;
+/*    background-color: #222;*/
+    background-image: url(../img/grasspic.jpg);
+    background-size: cover;
+/*    background-position: center;*/
+/*    background-repeat: no-repeat;*/
 }
 
 section#contact .section-heading {
